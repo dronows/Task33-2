@@ -1,0 +1,37 @@
+{
+    "Batmen": {
+        "actors": "Robert Pattinson, Jeffrey Wright , Zoe Kravitz, Paul Dano , John Turturro",
+        "country creater": "USA",
+        "create date": 2022,
+        "director": "Matt Reeves",
+        "name": "Batman"
+    },
+    "Fall": {
+        "actors": " Grace Fulton, Virginia Gardner , Jeffrey Dean Morgan, Brianna Hildebrand,Mason Gooding, Jasper Cole",
+        "country creater": "USA",
+        "create date": 2022,
+        "director": "Scott Mann",
+        "name": "Fall"
+    },
+    "Fate of a Sport": {
+        "actors": "Jeffrey Wright, Peter Berg, Seth Meyers , Dylan Dreyer",
+        "country creater": "USA",
+        "create date": 2022,
+        "director": " Michael Doneger",
+        "name": "Fate of a Sport "
+    },
+    "Liked": {
+        "actors": "Virginia Gardner , Logan Paul, Betsy Sodaro ,Sam Lerner, Amy Okuda",
+        "country creater": "USA",
+        "create date": 2019,
+        "director": "Marja-Lewis Ryan",
+        "name": "Liked"
+    },
+    "The Contractor": {
+        "actors": "Chris Pine, Gillian Jacobs, Ben Foster, Eddie Marsan, Fares Fares ",
+        "coutry creater": "USA",
+        "create date": 2022,
+        "director": "Tarik Saleh",
+        "name": "The Contractor"
+    }
+}
